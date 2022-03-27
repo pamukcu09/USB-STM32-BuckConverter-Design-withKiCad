@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name STM32F4_REV2-rescue)(type Legacy)(uri "C:/Users/Lenovo/Documents/KiCad projeleri/stm32/STM32F4_REV2-rescue.lib")(options "")(descr ""))
+  (lib (name calisma-rescue)(type Legacy)(uri ${KIPRJMOD}/calisma-rescue.lib)(options "")(descr ""))
+)
